@@ -3,6 +3,7 @@ CHI Landing Page
 A simple landing page to illustrate the pitch for our social entrepreneurship startup, a platform to ease people's access to resources and professional guidance in the mental health area.
 
 Hosted on Netlify
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/4a17b7fc-c0c9-484d-9e6b-e2578364dcf3/deploy-status)](https://app.netlify.com/sites/chi-app/deploys)
 
 Check out the site live: https://chi-app.netlify.com/
